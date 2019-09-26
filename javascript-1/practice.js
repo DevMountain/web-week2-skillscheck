@@ -131,6 +131,6 @@ const people = [
 
 //////////////////PROBLEM 20////////////////////
 
-// Using the people array above, let's get a total of the awesomeLevel from all the people. Call the new array 'totallyAwesome'. Use .reduce()
+// Using the people array above, let's get a total of the awesomeLevel from all the people. Call the total 'totallyAwesome'. Use .reduce()
 
 // Code Here
